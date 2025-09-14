@@ -1,4 +1,4 @@
-A machine learning model to check employee burnout rate
+A machine learning model to check employee burnout rate.
 Employee burnout is a state of physical, emotional and mental exhaustion caused by excessive and prolonged stress. It can have serious consequences on an individual’s 
 well-being and can lead to decreased productivity and job performance. In today’s fast-paced and constantly connected world, it is increasingly important to recognize 
 and address the signs of burnout in order to maintain the health and well-being of employees.
